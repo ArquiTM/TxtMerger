@@ -7,6 +7,7 @@ Example:
 
 arquivoUm.txt
 ->
+
 Um, dois, tres, quarto e cinco
 
 Onze, doze, treze, catorze e quinze
@@ -18,8 +19,10 @@ Onze, doze, treze, catorze e quinze
 41, 42, 43, 44 e 45.
 
 
+
 arquivoDois.txt
 ->
+
 Seis, sete, oito, nove e dez
 
 Dezesseis, dezessete, dezoito, dezenove e vinte
@@ -27,8 +30,10 @@ Dezesseis, dezessete, dezoito, dezenove e vinte
 26, 27, 28, 29 e 30.
 
 
+
 arquivoTres.txt
 ->
+
 Um, dois, tres, quarto e cinco
 
 Seis, sete, oito, nove e dez
