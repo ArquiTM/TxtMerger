@@ -27,7 +27,7 @@ Seis, sete, oito, nove e dez
 
 Dezesseis, dezessete, dezoito, dezenove e vinte
 
-26, 27, 28, 29 e 30.
+26, 27, 28, 29 e 30
 
 
 
