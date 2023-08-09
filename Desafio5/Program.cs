@@ -15,18 +15,18 @@ namespace Desafio5
             if (File.Exists(path))
                 File.Delete(path);
 
-            using (StreamWriter sw = File.CreateText(path))
+            using (StreamWriter merge = File.CreateText(path))
             {
                 do
                 {
                     if (reader1.Length > count1)
                     {
-                        sw.WriteLine(reader1[count1]);
+                        merge.WriteLine(reader1[count1]);
                         count1++;
                     }
                     if (reader2.Length > count2)
                     {
-                        sw.WriteLine(reader2[count2]);
+                        merge.WriteLine(reader2[count2]);
                         count2++;
                     }
                 }
