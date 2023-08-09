@@ -1,5 +1,4 @@
 # TxtMerger
-A txt merger
 To run this app, you should have a "arquivoUm.txt" file and "arquivoDois.txt" file on root diretory.
 The app will create the file "arquivoTres.txt" (if already exists, will delete the file and create a new file "arquivoTres.txt") with the merging of the "arquivoUm.txt" file and "arquivoDois.txt" file (one line from each file).
 
