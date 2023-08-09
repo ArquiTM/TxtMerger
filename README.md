@@ -11,13 +11,6 @@ Um, dois, tres, quarto e cinco
 
 Onze, doze, treze, catorze e quinze
 
-21, 22, 23, 24 e 25
-
-31, 32, 33, 34 e 35
-
-41, 42, 43, 44 e 45.
-
-
 
 arquivoDois.txt
 ->
@@ -26,7 +19,6 @@ Seis, sete, oito, nove e dez
 
 Dezesseis, dezessete, dezoito, dezenove e vinte
 
-26, 27, 28, 29 e 30
 
 
 
@@ -40,12 +32,3 @@ Seis, sete, oito, nove e dez
 Onze, doze, treze, catorze e quinze
 
 Dezesseis, dezessete, dezoito, dezenove e vinte
-
-21, 22, 23, 24 e 25
-
-26, 27, 28, 29 e 30
-
-31, 32, 33, 34 e 35
-
-41, 42, 43, 44 e 45.
-
