@@ -1,0 +1,11 @@
+C:\Projetos\Intelitrader\Desafio5\Desafio5\bin\Debug\netcoreapp2.0\Desafio5.deps.json
+C:\Projetos\Intelitrader\Desafio5\Desafio5\bin\Debug\netcoreapp2.0\Desafio5.runtimeconfig.json
+C:\Projetos\Intelitrader\Desafio5\Desafio5\bin\Debug\netcoreapp2.0\Desafio5.runtimeconfig.dev.json
+C:\Projetos\Intelitrader\Desafio5\Desafio5\bin\Debug\netcoreapp2.0\Desafio5.dll
+C:\Projetos\Intelitrader\Desafio5\Desafio5\bin\Debug\netcoreapp2.0\Desafio5.pdb
+C:\Projetos\Intelitrader\Desafio5\Desafio5\obj\Debug\netcoreapp2.0\Desafio5.csproj.CoreCompileInputs.cache
+C:\Projetos\Intelitrader\Desafio5\Desafio5\obj\Debug\netcoreapp2.0\Desafio5.AssemblyInfoInputs.cache
+C:\Projetos\Intelitrader\Desafio5\Desafio5\obj\Debug\netcoreapp2.0\Desafio5.AssemblyInfo.cs
+C:\Projetos\Intelitrader\Desafio5\Desafio5\obj\Debug\netcoreapp2.0\Desafio5.dll
+C:\Projetos\Intelitrader\Desafio5\Desafio5\obj\Debug\netcoreapp2.0\Desafio5.pdb
+C:\Projetos\Intelitrader\Desafio5\Desafio5\obj\Debug\netcoreapp2.0\Desafio5.csprojAssemblyReference.cache
